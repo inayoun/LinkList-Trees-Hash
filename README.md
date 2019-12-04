@@ -7,3 +7,4 @@ The output is the query text file, but with the answers at the end of each line
 Methods contain waiting time of a customer, number of customers served, longest break time, total break time, and maximum number of people in queue
 Customers arriving before 9 or after 5 are not served. Some customers arriving before 5 may not be served if the queue is too long.
 The code utilizes linked list for the customer queue.
+*/
